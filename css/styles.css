@@ -2,8 +2,41 @@
   width: 30%;
   float: right;
   background-color: grey;
+  padding: 30px;
+  margin: 30px;
+  border: 10px solid red;
 }
 
 .imgfloat{
   float: left;
+  padding: 20px;
+}
+
+.bp1 {
+  color: red;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.bp2 {
+  color: blue;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.bp3 {
+  color: teal;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.bp4 {
+  color: orange;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.aboutme{
+  font-size: 120%;
+  color: purple;
 }
