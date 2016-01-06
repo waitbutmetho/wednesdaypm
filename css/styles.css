@@ -40,3 +40,21 @@
   font-size: 120%;
   color: purple;
 }
+
+.column1 {
+  width: 400px;
+  float: left;
+  background-color: tan;
+}
+
+.column2 {
+  width: 400px;
+  float: left;
+  background-color: grey;
+}
+
+.column3 {
+  width: 400px;
+  float: left;
+  background-color: orange;
+}
